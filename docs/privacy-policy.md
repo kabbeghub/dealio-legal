@@ -1,3 +1,7 @@
+---
+layout: default
+title: Privacy Policy
+---
 # Privacy Policy for Dealio
 
 _Last updated: August 25, 2025_
