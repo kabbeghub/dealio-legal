@@ -6,7 +6,7 @@ title: Privacy Policy
 
 _Last updated: August 25, 2025_
 
-Dealio (“we”, “our”, “us”) respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application (“App”).
+Dealio respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application.
 
 ## Information We Collect
 - **Account Information:** When you sign up, we collect your email address and name via Firebase Authentication.
