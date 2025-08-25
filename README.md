@@ -15,4 +15,4 @@ This repository serves as the public home for those documents.
 
 ---
 
-© [Current Year] Dealio. All rights reserved.
+© 2025 Dealio. All rights reserved.
