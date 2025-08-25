@@ -5,8 +5,8 @@ These documents are published publicly to comply with the requirements of the **
 
 ## Available Documents
 
-- [Privacy Policy](privacy-policy.md)
-- [Terms of Service](terms-of-service.md)
+- [Privacy Policy](./docs/privacy-policy.md)
+- [Terms of Service](./docs/terms-of-service.md)
 
 ## Purpose
 
