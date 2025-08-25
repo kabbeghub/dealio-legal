@@ -2,7 +2,7 @@
 
 _Last updated: August 25, 2025_
 
-By using Dealio (“App”), you agree to the following terms:
+By using Dealio, you agree to the following terms:
 
 ## Use of Service
 - You must be at least 13 years old to create an account.
